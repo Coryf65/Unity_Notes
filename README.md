@@ -3,11 +3,17 @@ Some tips and tricks about using the Unity Game Engine
 
 ### Unity 3D Formats 
 suppported formats there are more...
+
 Autodesk FBX  .fbx
+
 Wavefront     .obj
+
 Autodesk Maya .ma, .mb
+
 Blender       .blend
+
 Lightwave     .lwo, .lws
+
 
 
 ### Content Creation Checklist (Models / Textures / Animations)
